@@ -56,5 +56,5 @@ The analysis applies **data cleaning, exploratory data analysis (EDA), statistic
 
 ## 🚀 How to View the Project  
 You can view the complete notebook with outputs directly on GitHub:  
-[**Open Notebook**](./Brazilian%20Real%20Estate%20Market%20Analysis.ipynb)  
+[**Open Notebook**](https://github.com/Ritesh01010/brazil-real-estate-analysis/blob/main/Brazilian%20Real%20Estate%20Market%20Analysis.ipynb)  
 
